@@ -37,3 +37,7 @@ The project uses the UCI Online Retail II dataset, containing over 1 million tra
 - Champions represent the most valuable customer segment.
 - RFM analysis identifies customer groups based on their purchasing behavior.
 - Customer segmentation can support targeted marketing and retention strategies.
+
+## Dashboard File
+
+[Download Power BI Dashboard] https://drive.google.com/file/d/1WROp7BI27-NL-D2KetlgYL54tEw5HkuQ/view?usp=sharing
